@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12
+customtkinter>=5.2
+requests>=2.31
+lxml>=5.0
